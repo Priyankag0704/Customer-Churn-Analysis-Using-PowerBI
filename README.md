@@ -162,7 +162,7 @@ Helps organizations:
 # 📷 Dashboard Preview
 
 <p align="center">
-<img width="1000" alt="Customer Churn Dashboard" src="Customer_Churn_Dashboard.png">
+<img width="1000" alt="Customer Churn Dashboard" src="https://github.com/Priyankag0704/Customer-Churn-Analysis-Using-PowerBI/blob/main/Snapshot%20of%20Customer%20Churn%20Analysis.png">
 </p>
 
 ---
